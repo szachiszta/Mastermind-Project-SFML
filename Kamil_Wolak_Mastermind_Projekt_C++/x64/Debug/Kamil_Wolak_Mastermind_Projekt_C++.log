@@ -1,0 +1,103 @@
+﻿  ListaKulek.cpp
+  Main.cpp
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(32,76): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(32,76): warning C4244:         with
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(32,76): warning C4244:         [
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(32,76): warning C4244:             T=float
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(32,76): warning C4244:         ]
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(37,128): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(37,80): warning C4244: "argument": konwersja z "const T" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(37,80): warning C4244:         with
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(37,80): warning C4244:         [
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(37,80): warning C4244:             T=float
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(37,80): warning C4244:         ]
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(42,123): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(42,75): warning C4244: "argument": konwersja z "const T" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(42,75): warning C4244:         with
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(42,75): warning C4244:         [
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(42,75): warning C4244:             T=float
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(42,75): warning C4244:         ]
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(47,176): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(47,80): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(47,80): warning C4244:         with
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(47,80): warning C4244:         [
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(47,80): warning C4244:             T=float
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(47,80): warning C4244:         ]
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(52,173): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(52,77): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(52,77): warning C4244:         with
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(52,77): warning C4244:         [
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(52,77): warning C4244:             T=float
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(52,77): warning C4244:         ]
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(196,14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(210,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(219,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(225,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\Main.cpp(283,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ObslugaGry.cpp
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(30,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(35,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(44,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(66,20): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(67,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(68,10): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(72,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(74,14): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(75,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(77,107): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(77,83): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(77,69): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(77,62): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(78,100): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(78,83): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(78,69): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(78,62): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(79,78): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(79,75): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(79,63): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(79,50): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(82,28): warning C4244: "inicjowanie": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(84,6): warning C4244: "=": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(85,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(86,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(87,83): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(87,80): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(87,73): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(87,49): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(88,13): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(90,33): warning C4244: "inicjowanie": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(93,24): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(94,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(95,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(96,86): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(96,83): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(96,76): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(96,58): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(109,26): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(144,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(154,36): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(159,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(169,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(179,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(180,14): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(205,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(225,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(231,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(239,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(240,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(249,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(254,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(259,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(269,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(274,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(284,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(296,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(304,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(340,17): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(341,17): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(343,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(344,135): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(344,116): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\Kamil_Wolak_Mastermind_Projekt_C++\ObslugaGry.cpp(344,75): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  Kamil_Wolak_Mastermind_Projekt_C++.vcxproj -> C:\Users\Kamil\Desktop\Kamil_Wolak_Mastermind_Projekt_C++\x64\Debug\Kamil_Wolak_Mastermind_Projekt_C++.exe
